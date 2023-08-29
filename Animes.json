@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Naruto",
+        "poster": "https://example.com/naruto.jpg",
+        "categoria": "Shonen",
+        "rating": 8.4,
+        "reviews": 120,
+        "season": "Primavera",
+        "tipo": "Serie"
+    },
+    {
+        "id": 2,
+        "titulo": "Death Note",
+        "poster": "https://example.com/deathnote.jpg",
+        "categoria": "Seinen",
+        "rating": 9.0,
+        "reviews": 150,
+        "season": "Otoño",
+        "tipo": "Serie"
+    },
+    {
+        "id": 3,
+        "titulo": "Sailor Moon",
+        "poster": "https://example.com/sailormoon.jpg",
+        "categoria": "Shojo",
+        "rating": 7.9,
+        "reviews": 90,
+        "season": "Verano",
+        "tipo": "Serie"
+    }
+]
